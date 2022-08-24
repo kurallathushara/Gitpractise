@@ -1,3 +1,4 @@
 ---
 - host: demo
+ become:root
 
