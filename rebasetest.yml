@@ -1,0 +1,11 @@
+---
+- host: demo
+ become:root
+  yum:
+    name: httpd
+    state: present
+  service: restart 
+  fasf
+  afsa
+  asf
+  a
